@@ -1,0 +1,16 @@
+main: me.Dzyre.lessEssentials.Main
+name: lessEssentials
+version: 0.1
+api-version: 1.18
+
+commands:
+  tpa:
+    usage: /<command>
+  tpaccept:
+    usage: /<command>
+  sethome:
+    usage: /<command>
+  delhome: 
+    usage: /<command>
+  home:
+    usage: /<command>
